@@ -1,7 +1,7 @@
 <h1 align="center">Ulrich Dongmo</h1>
 
 <p align="center">
-  <strong>Étudiant finissant en génie informatique · UQO</strong><br/>
+  <strong>CPI · Étudiant finissant en génie informatique · UQO</strong><br/>
   Données · Cybersécurité · Systèmes embarqués · Automatisation
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 👋 À propos
 
-Je termine un **baccalauréat en génie informatique à l'Université du Québec en Outaouais** (fin prévue en avril 2027), après deux années de sciences mathématiques à l'Université de Yaoundé I.
+Je termine un **baccalauréat en génie informatique à l'Université du Québec en Outaouais** (fin prévue en avril 2027), après deux années de sciences mathématiques à l'Université de Yaoundé I. Je suis **candidat à la profession d'ingénieur (CPI)** auprès de l'Ordre des ingénieurs du Québec.
 
 Je conçois des applications complètes, **du traitement des données jusqu'à l'interface**, en documentant les choix techniques et les limites des résultats.
 
